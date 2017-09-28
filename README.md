@@ -12,3 +12,6 @@ Numpy 1.13.1 <br/>
 ## Data
 SQuaD dataset : https://rajpurkar.github.io/SQuAD-explorer/ <br/>
 data/ : folder contains the word embeddings, and whole dataset [train and validation dataset] <br/>
+
+## P.S.:
+The snapshot is for the running of dcn.py file where training is done only on dataset of size 200 owing to excessive running time on cpy but the *.ipynb file incorporates the whole dataset.
